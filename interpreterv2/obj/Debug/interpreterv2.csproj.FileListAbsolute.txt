@@ -1,0 +1,8 @@
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\bin\Debug\interpreterv2.exe.config
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\bin\Debug\interpreterv2.exe
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\bin\Debug\interpreterv2.pdb
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\obj\Debug\interpreterv2.csproj.AssemblyReference.cache
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\obj\Debug\interpreterv2.csproj.SuggestedBindingRedirects.cache
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\obj\Debug\interpreterv2.csproj.CoreCompileInputs.cache
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\obj\Debug\interpreterv2.exe
+D:\SkendaOS\2022\2_2\interpreterv2\interpreterv2\obj\Debug\interpreterv2.pdb
